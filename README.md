@@ -85,6 +85,7 @@ The following evaluation techniques are used:
 
 An interactive Streamlit application is developed to make weather prediction easier.
 
+try my weather prediction application https://puzzling-giggling-engraved.ngrok-free.dev/
 Application Features:
 
 - Enter weather-related details.
